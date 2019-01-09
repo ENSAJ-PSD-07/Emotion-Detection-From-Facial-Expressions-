@@ -13,5 +13,5 @@ Emotion detection from facial expression is one of the most active research fiel
  >>   * Professor Elhannani Assmaa.
  >>   * Mrs Fatima Zahra Salmam.
 
-You will find the dataset that we used for both training and testing https://github.com/muxspace/facial_expressions
+You will find the dataset that we used for both training and testing  here in github https://github.com/muxspace/facial_expressions or in Kaggle https://www.kaggle.com/c/5933/download-all
 
